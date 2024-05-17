@@ -33,11 +33,13 @@ const questions = [
         message: "List your collaborators, if any, with links to their GitHub profiles.",
         name: "credits",
     },
-
+/*
+will come back to fix contribute link
+*/
     {
         type: "input",
         message: "Enter any contribution guidelines such as if would like other developers to contribute it",
-        name: "contribute",
+        name: "Contribute",
     },
 
     {

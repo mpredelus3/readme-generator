@@ -3,7 +3,7 @@
 
   ## Description
 
-  he README Generator is a command-line tool that simplifies the creation of professional README files for projects. It collects project details via prompts and automatically generates a well-structured README.md file. Ideal for developers seeking efficiency and consistency in their documentation.
+  the README Generator is a command-line tool that simplifies the creation of professional README files for projects. It collects project details via prompts and automatically generates a well-structured README.md file. Ideal for developers seeking efficiency and consistency in their documentation.
 
   ## Table of Contents
 
@@ -27,13 +27,13 @@ Follow the prompts, provide the necessary information about your project, and th
 I collaborated with ChatGPT [chatgpt.com], Xpert learning, My instructor and Tutors
 
 ## How to contribute
-None
+undefined
 
 ## Tests
 None
 
 ## Questions
-None
+mpredelus3@gmail.com 
 
 
 ## License

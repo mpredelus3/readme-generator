@@ -65,7 +65,7 @@ ${data.contribute}
 ${data.tests}
 
 ## Questions
-${data.questions}
+${data.questions} 
 
 
 ${renderLicenseLink(data.license)}
@@ -75,3 +75,6 @@ ${renderLicenseLink(data.license)}
 }
 
 module.exports = generateMarkdown;
+/*
+will come back to questions to edit and add my github link and add email
+*/
