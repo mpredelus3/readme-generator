@@ -42,7 +42,7 @@ function generateMarkdown(data) {
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Contribution](#contribute)
+- [Contribute](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
 - ${data.license !== 'no license' ? '[License](#license)' : ''}
@@ -59,7 +59,7 @@ ${data.usage}
 ${data.credits}
 
 ## How to contribute
-${data.contribution}
+${data.contribute}
 
 ## Tests
 ${data.tests}
